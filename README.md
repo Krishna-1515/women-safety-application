@@ -2,7 +2,7 @@
 
 The SheSecure Women Safety Application is a cutting-edge mobile solution designed to ensure women's safety by providing real-time assistance, preventive measures, and awareness tools. The app integrates modern technology with user-centric design to address safety challenges effectively. It includes features like SOS alerts, fake calls, safety alarms, and emergency contacts to empower women in emergencies, offering both proactive and reactive safety solutions. By focusing on usability and privacy, SheSecure aims to be a reliable companion for women, ensuring their safety and confidence in any environment.
 
-**Feature: **
+**FEATURES:**
 
 **1. SOS Alert:**
 • Code the functionality to send a distress message with GPS location via SMS to emergency contacts.
@@ -24,6 +24,7 @@ The SheSecure Women Safety Application is a cutting-edge mobile solution designe
 • Ensure content is readable and accessible within the app interface.
 
 **TECH STACK**
+
   FRONTEND: Flutter
 
 register page
